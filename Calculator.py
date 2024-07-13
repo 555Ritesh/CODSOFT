@@ -1,4 +1,4 @@
-# TASK-2 :- CALCULATOR
+# CALCULATOR
 
 
 import tkinter as tk
