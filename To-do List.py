@@ -1,4 +1,4 @@
-# TASK-1 :-  TO-DO LIST
+# TO-DO LIST
 
 
 import tkinter as tk
